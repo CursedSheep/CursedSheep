@@ -8,9 +8,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CursedSheep&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&layout=compact" alt="cursedsheep" /></p>
 
-<br>
-<br>
-<br>
 <h3 align="left">Info: </h3>
 
 - 🌱 I’m currently learning **C# and Reversing Engineering**
