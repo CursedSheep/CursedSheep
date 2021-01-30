@@ -13,7 +13,7 @@
 
 <h3 align="left">Social media platforms:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/cursedsheep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="cursedsheep" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCpbHU8fNTw5DOUgsWbX62-A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="cursedsheep" height="30" width="40" /></a>
  <b>CursedSheep</b>
 </p>
 <p align="left">
